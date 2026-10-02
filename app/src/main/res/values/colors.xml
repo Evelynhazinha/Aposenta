@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#E60C0C</color>
+    <color name="fundobt">#4B13C7</color>
+
+    <color name="degrade1">#C4FFF6</color>
+    <color name="degrade2">#6EA8A5</color>
+    <color name="degrade3">#3E817B</color>
+</resources>

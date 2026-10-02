@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalcAposentadoria</string>
+    <string name="nome">Évelyn de Souza de Oliveira</string>
+    <string name="calcular">Calcular</string>
+    <string name="hint">Ex.: 35</string>
+    <string name="idade">Idade</string>
+    <string name="resultado">Resultado</string>
+
+    <string-array name="opcoes">
+        <item>Feminino</item>
+        <item>Masculino</item>
+    </string-array>
+</resources>
